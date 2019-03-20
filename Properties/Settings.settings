@@ -1,0 +1,39 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="NETTRASH.BTC.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="BTCTRXUrl" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://blockchain.info/rawtx/</Value>
+    </Setting>
+    <Setting Name="BlockchainInfoTickerURL" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://blockchain.info/ru/ticker</Value>
+    </Setting>
+    <Setting Name="BittrexRateUrl" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://bittrex.com/api/v1.1/public/getticker?market=</Value>
+    </Setting>
+    <Setting Name="BTCEAPIUrl" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://btc-e.com/api/3/ticker/btc_rur-btc_usd-btc_eur</Value>
+    </Setting>
+    <Setting Name="COINMARKETCAPAPIUrl" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.coinmarketcap.com/v1/ticker/bitcoin/?convert=RUB</Value>
+    </Setting>
+    <Setting Name="EXMOAPIURL" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.exmo.com/v1/ticker/</Value>
+    </Setting>
+    <Setting Name="RPCHost" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">192.168.1.3</Value>
+    </Setting>
+    <Setting Name="RPCPort" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">8332</Value>
+    </Setting>
+    <Setting Name="RPCUser" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">prodBtcH003</Value>
+    </Setting>
+    <Setting Name="RPCPassword" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">fCjIMuS1bUgT</Value>
+    </Setting>
+    <Setting Name="CoinbaseUrl" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.coinbase.com/v2/exchange-rates?currency=BTC</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
